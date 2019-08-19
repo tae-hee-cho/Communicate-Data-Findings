@@ -1,5 +1,5 @@
 # Effects of Loan Characterics on Borrower's APR
-## by Tae-Hee CHo
+## by Tae-Hee Cho
 
 ## Dataset
 
